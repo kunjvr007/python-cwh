@@ -6,8 +6,8 @@
 
 
 
-items=[int,float,"kunj",22,23,1,2,3,10,6]
-for item in items:
- if str(item).isnumeric() and item>=6:
-  print(item)
+# items=[int,float,"kunj",22,23,1,2,3,10,6]
+# for item in items:
+#  if str(item).isnumeric() and item>=6:
+#   print(item)
   
